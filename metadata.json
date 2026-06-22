@@ -1,0 +1,6 @@
+{
+  "name": "Da Nang Hoi An Car Rental",
+  "description": "Dịch vụ cho thuê xe du lịch từ 4 đến 16 chỗ có tài xế riêng, đón tiễn Sân bay Đà Nẵng - Hội An và các danh lam thắng cảnh miền Trung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
